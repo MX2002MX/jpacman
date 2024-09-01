@@ -81,6 +81,10 @@ tasks.withType(com.github.spotbugs.SpotBugsTask) {
     }
 }
 
+tasks.withType(JavaCompile) {
+    options.compilerArgs << "-Xlint:deprecation"
+}
+
 task staticAnalysis(type: GradleBuild) {
     tasks = [
         'clean',
