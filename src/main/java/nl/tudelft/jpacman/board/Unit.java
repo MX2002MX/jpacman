@@ -13,7 +13,6 @@ public abstract class Unit {
      * The square this unit is currently occupying.
      */
     private Square square;
-
     /**
      * The direction this unit is facing.
      */
