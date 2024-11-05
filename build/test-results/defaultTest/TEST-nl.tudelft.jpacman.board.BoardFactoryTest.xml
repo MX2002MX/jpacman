@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.board.BoardFactoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-11-05T06:06:26" hostname="DESKTOP-4RJR41V" time="0.733">
+  <properties/>
+  <testcase name="connectedEast()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.708"/>
+  <testcase name="connectedWest()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.0"/>
+  <testcase name="worldIsRound()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.02"/>
+  <testcase name="connectedNorth()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.001"/>
+  <testcase name="connectedSouth()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
